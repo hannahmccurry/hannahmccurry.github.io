@@ -1,0 +1,36 @@
+h1{
+    color: black;
+    font-size: 24px;
+    padding: 20px;
+}
+
+ul ol{
+    list-style-type: square;
+}
+
+a:link{
+    color: green;
+
+}
+
+a:visited{
+    color: red;
+}
+
+p{
+    font-family: "Ariel", "Helvetica",sans-serif;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#firstH{
+    position: absolute; top:20px; left:50px;
+}
+
+#snoopy{
+    position: absolute; top:200px; left:50px;
+    padding: 20px;
+    background-color: silver;
+    border-width: 5px;
+
+}
