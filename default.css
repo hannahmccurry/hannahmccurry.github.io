@@ -1,0 +1,59 @@
+h1{
+    color: black;
+    font-size: 24px;
+    padding: 10px;
+    position: absolute; top: 10px; left:20px;
+
+}
+
+h5{
+    color: grey;
+    font-size:18px;
+    padding: 10px;
+    position: absolute; top: 20px; left:20px;
+}
+
+body{
+    background-color: #85C1E9;
+}
+
+ul ol{
+    list-style-type: square;
+    font-size: 16px;
+    position: absolute; top:95px; left:60px;
+    color:green;
+}
+
+a:link{
+    color: blue;
+
+}
+
+a:visited{
+    color: red;
+}
+
+p{
+    font-weight: normal;
+    font-size: 16px;
+    padding: 20px;
+    position: absolute; top:75px; left:35px;
+    color:white;
+}
+
+#date {
+    color:white;
+    font-size: 16px;
+    position: absolute; top: 20px; left:20px;
+}
+
+#title{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute; top: 40px; left:20px;
+}
+
+img{
+    width: 50%;
+}
