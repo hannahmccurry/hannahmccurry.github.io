@@ -1,0 +1,60 @@
+body{
+    background-color:#e6ffff;
+}
+
+#title{
+    color:#004d4d;
+    font-size: 28px;
+    font-weight: bold;
+    position: absolute; top: 10px; left:390px;
+    padding: 10px;
+}
+
+#subtitle{
+    color: black;
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute; top: 55px; left: 540px;
+}
+
+#subtitle2{
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+    position: absolute; top: 75px; left: 380px;
+}
+
+#road{
+    position: absolute; top: 94px; left:350px;
+}
+
+#yoga{
+    position: absolute; top:150px; left:185px;
+}
+
+#bake{
+    position: absolute; top: 200px; left: 650px;
+}
+
+#learn{
+    position: absolute; top: 600px; left: 745px;
+}
+
+#tv{
+    position:absolute; top: 500px; left: 280px; 
+}
+
+#dog{
+    position:absolute; top: 900px; left: 775px;
+}
+
+#drinks{
+    position: absolute; top: 925px; left:200px;
+}
+
+p{
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute; top: 1065px; left:655px;
+    padding: 15px;
+}
